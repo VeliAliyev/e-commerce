@@ -8,9 +8,8 @@
         <version>0.0.1-SNAPSHOT</version>
         <relativePath>../pom.xml</relativePath> <!-- lookup parent from repository -->
     </parent>
-
-    <artifactId>product-catalog-service</artifactId>
+    <artifactId>shopping-cart-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>product-catalog-service</name>
-    <description>product-catalog-service</description>
+    <name>shopping-cart-service</name>
+    <description>shopping-cart-service</description>
 </project>

@@ -9,8 +9,8 @@
         <relativePath>../pom.xml</relativePath> <!-- lookup parent from repository -->
     </parent>
 
-    <artifactId>product-catalog-service</artifactId>
+    <artifactId>order-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>product-catalog-service</name>
-    <description>product-catalog-service</description>
+    <name>order-service</name>
+    <description>order-service</description>
 </project>
